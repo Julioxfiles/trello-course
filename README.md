@@ -146,7 +146,7 @@ Vista de un tablero de Trello.
 Las listas ("B") contienen tarjetas, es decir, tareas o información específica, que están organizadas por fases de progreso. Las listas se pueden usar para crear flujos de trabajo, donde las tarjetas van avanzando por los distintos pasos del proceso de principio a fin, o bien para llevar un seguimiento de ideas e información. Puedes añadir tantas listas como quieras a un mismo tablero, así como organizarlas y ponerles el nombre que quieras.
 
 Vista de una lista en un tablero de Trello
-![!\[Alt text\](image.png)](listas.png)
+![!\[Alt text\](image.png)](images/listas.png)
 
 ## ¿Qué es una tarjeta?
 
@@ -157,7 +157,7 @@ Las tarjetas se pueden personalizar para que incluyan información variada y út
 Vista que muestra el traslado de una tarjeta 
 en un tablero de Trello.
 
-![Alt text](moviendo-tarjetas.png)
+![Alt text](images/moviendo-tarjetas.png)
 
 ## CONSEJO DE EXPERTO
 
@@ -167,7 +167,7 @@ Añade fácilmente varias tarjetas en masa a un tablero a partir de una lista u 
 A la derecha del tablero de Trello tienes el menú (D), que es, digamos, el centro de control. Desde ahí puedes gestionar los permisos de tablero de los miembros, controlar la configuración, buscar tarjetas, habilitar Power-Ups y crear automatizaciones. Asimismo, en la fuente de actividades del menú puedes consultar todo lo que ha sucedido en el tablero. Tómate tu tiempo para descubrir todo lo que ofrece el menú.
 
 Vista del menú en un tablero de Trello
-![Alt text](menu-de-tablero.png)
+![Alt text](images/menu-de-tablero.png)
 
 Parece sencillo, ¿verdad? Empecemos por crear el primer proyecto. Pero antes, piensa en qué iniciativa u objetivo podrías trabajar. ¿Necesitas ideas? Aquí tienes algunas.
 

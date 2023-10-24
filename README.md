@@ -135,5 +135,42 @@ Trello ofrece una prueba gratuita del plan Premuim que no debes perderte. Si las
 
 Ahora que conoces este potente programa estás preparado para dar tus primeros pasos en el uso de sistemas que facilitan la gestión de tareas y la organización de información. Apóyate en estas herramientas para optimizar la planificación de tus objetivos y asegura el éxito a través de la colaboración entre los miembros de tus equipos de trabajo.
 
+## ¿Qué es un tablero?
+
+Un tablero ("A") representa el lugar donde puedes hacer un seguimiento de la información, normalmente sobre proyectos grandes, equipos o flujos de trabajo. Si tienes que lanzar un sitio web nuevo, supervisar las ventas o planificar la próxima fiesta de la oficina, los tableros de Trello son el sitio perfecto, ya que permiten organizar tareas y cualquier pequeño detalle y, lo que es más importante, colaborar con los compañeros.
+
+Vista de un tablero de Trello.
+![Alt text](images/tablero.png)
+
+## ¿Qué es una lista?
+Las listas ("B") contienen tarjetas, es decir, tareas o información específica, que están organizadas por fases de progreso. Las listas se pueden usar para crear flujos de trabajo, donde las tarjetas van avanzando por los distintos pasos del proceso de principio a fin, o bien para llevar un seguimiento de ideas e información. Puedes añadir tantas listas como quieras a un mismo tablero, así como organizarlas y ponerles el nombre que quieras.
+
+Vista de una lista en un tablero de Trello
+![!\[Alt text\](image.png)](listas.png)
+
+## ¿Qué es una tarjeta?
+
+Una tarjeta ("C") es el elemento más pequeño y, a la vez, más detallado de un tablero, y sirve para representar tareas e ideas. Una tarjeta puede ser una tarea (como escribir una entrada de blog) o un recordatorio (como las políticas de vacaciones de la empresa). Para crear una tarjeta, haz clic en "Añadir una tarjeta…" en la parte inferior de cualquier lista y ponle un nombre, como "Contratar a un gestor de proyectos de marketing" o "Escribir una entrada de blog".
+
+Las tarjetas se pueden personalizar para que incluyan información variada y útil. Basta con que hagas clic en cualquiera de ellas. Arrastra y suelta tarjetas en las diferentes listas para mostrar su progreso. Puedes añadir tantas tarjetas como quieras a un mismo tablero. En el siguiente capítulo verás más información al respecto.
+
+Vista que muestra el traslado de una tarjeta 
+en un tablero de Trello.
+
+![Alt text](moviendo-tarjetas.png)
+
+## CONSEJO DE EXPERTO
+
+Añade fácilmente varias tarjetas en masa a un tablero a partir de una lista u hoja de cálculo. Para ello, basta con que copies esa lista u hoja y la pegues en una nueva tarjeta de Trello. Trello se encargará de convertir los elementos de cada línea en una nueva tarjeta de forma automática. Así que ya puedes ir despidiéndote de tus viejas herramientas.
+
+## ¿Qué es el menú del tablero?
+A la derecha del tablero de Trello tienes el menú (D), que es, digamos, el centro de control. Desde ahí puedes gestionar los permisos de tablero de los miembros, controlar la configuración, buscar tarjetas, habilitar Power-Ups y crear automatizaciones. Asimismo, en la fuente de actividades del menú puedes consultar todo lo que ha sucedido en el tablero. Tómate tu tiempo para descubrir todo lo que ofrece el menú.
+
+Vista del menú en un tablero de Trello
+![Alt text](menu-de-tablero.png)
+
+Parece sencillo, ¿verdad? Empecemos por crear el primer proyecto. Pero antes, piensa en qué iniciativa u objetivo podrías trabajar. ¿Necesitas ideas? Aquí tienes algunas.
+
+
 
 

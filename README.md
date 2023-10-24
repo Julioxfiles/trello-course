@@ -172,5 +172,7 @@ Vista del menú en un tablero de Trello
 Parece sencillo, ¿verdad? Empecemos por crear el primer proyecto. Pero antes, piensa en qué iniciativa u objetivo podrías trabajar. ¿Necesitas ideas? Aquí tienes algunas.
 
 
+Mas informacion sobre Trello: https://trello.com/es/guide/trello-101#what-is-the-board-menu
+
 
 
